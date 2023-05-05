@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 *.doc
 README.md
+=======
+*.doc
+>>>>>>> a080e8ca0a3c69cf97bdc25bc161dfd182e392ba
